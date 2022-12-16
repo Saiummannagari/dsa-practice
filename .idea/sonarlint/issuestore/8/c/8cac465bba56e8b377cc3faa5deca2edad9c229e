@@ -1,0 +1,15 @@
+
+t
+java:S1192"RDefine a constant instead of duplicating this literal "ordered pizza :: " 4 times.(Ä‘÷üÿÿÿÿ8·—ìÙ±0
+†
+java:S1192"jDefine a constant instead of duplicating this literal "*****************************************" 5 times.(Ê¼†08€íñÙ±0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ö”¦
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ä‘÷üÿÿÿÿ8ÙüéÙ±0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ê¼†08ÙüéÙ±0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ö¼šÒşÿÿÿÿ8É—ìÙ±0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ê¼†08¡½íÙ±0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ê¼†08íñÙ±0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(öâ×Ò8íñÙ±0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ê¼†08íñÙ±0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¯â•®8íñÙ±0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ê¼†08ÀÇòÙ±0

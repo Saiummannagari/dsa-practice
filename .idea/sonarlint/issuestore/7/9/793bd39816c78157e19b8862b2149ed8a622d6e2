@@ -1,0 +1,6 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ä”• þÿÿÿÿ
+d
+java:S1182"HUse super.clone() to create and seed the cloned instance to be returned.(™”” 8ÃšÂ–±0
+š
+java:S1130"}Remove the declaration of thrown exception 'java.lang.CloneNotSupportedException', as it cannot be thrown from method's body.(ü²æ•8²ŸÈ–±0
